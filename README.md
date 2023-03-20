@@ -1,4 +1,4 @@
-- 🐌 Hi, I’m @snail
+- i am snail.
 
 
 <!---
